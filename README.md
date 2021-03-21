@@ -1,5 +1,6 @@
 # Project Loan_Approval
 ![Loan_Approval](Images/loan_approval.JPG)
+![Loan Taken By Customers](output.png)
 
 # Introduction
 
