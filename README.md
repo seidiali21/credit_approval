@@ -1,5 +1,5 @@
 # Project Creadit_Approval
-![Credit_Approval](Images/Credi_Approval.jpg)
+![Credit_Approval](Images/Credit_Approval.jpg)
 
 # Introduction
 
@@ -8,5 +8,5 @@
 # Data Sources
 
 # By Seidi Mohammad
-![Seidi A Mohammad](Images/IMG_4197.jpg)
+![Seidi A Mohammad](Images/IMG_4197.JPG)
 
