@@ -2,13 +2,33 @@
 ![Loan_Approval](Images/loan_approval.JPG)
 ![Loan Taken By Customers](output.png)
 
-# Introduction
 
-# Technologies
+# Table of contents
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Development Process](#Development-Process)
+* [Data Sources](#Data-Sources)
+* [Development Team](#Development-Team)
 
-# Data Sources
+## Introduction
+[Loan Approval visulizaiation Project](.....)
+
+
+
+## Technologies 
+1. Python
+2. HTML & CSS
+3. Pandas
+4. Tableau 
+5. Machine Learning
+
+
+## Data Sources
    ### https://www.kaggle.com/granjithkumar/loan-approval-data-set
 
-# By Seidi Mohammad
+# Development By 
+![Seidi A Mohammad](https://github.com/seidiali21)
+![Seidi A Mohammad](https://www.linkedin.com/in/seidi-ali-mohammad/)
 ![Seidi A Mohammad](Images/seidi2.png)
+
 
