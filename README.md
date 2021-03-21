@@ -27,8 +27,8 @@
    ### https://www.kaggle.com/granjithkumar/loan-approval-data-set
 
 # Development By 
-![Seidi A Mohammad](https://github.com/seidiali21)
-![Seidi A Mohammad](https://www.linkedin.com/in/seidi-ali-mohammad/)
+1. [Github](https://github.com/seidiali21)
+2. [Linkedin](https://www.linkedin.com/in/seidi-ali-mohammad/)
 ![Seidi A Mohammad](Images/seidi2.png)
 
 
