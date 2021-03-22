@@ -6,7 +6,7 @@
 # Table of contents
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
-* [Development Process](#Development-Process)
+* [Predicting Loan Approval](#Predicting-Loan-Approval)
 * [Data Sources](#Data-Sources)
 * [Development Team](#Development-Team)
 
@@ -22,7 +22,11 @@
 4. Tableau 
 5. Machine Learning
 
-
+## Preducting Loan Approval
+Machine Learning project to predict whether or not loan application will be approved or not. Three machine learing algorithms are available. code used in Python3
+   1. Logistic regression
+   2. Decision Tree
+   3. Random Forset 
 ## Data Sources
    ### https://www.kaggle.com/granjithkumar/loan-approval-data-set
 
