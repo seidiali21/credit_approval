@@ -1,6 +1,6 @@
 # Project Loan_Approval
 ![Loan_Approval](Images/loan_approval.JPG)
-![Loan Taken By Customers](output.png)
+![Loan Taken By Customers](Images/output.png)
 
 
 # Table of contents
@@ -11,7 +11,7 @@
 * [Development Team](#Development-Team)
 
 ## Introduction
-[Loan Approval visulizaiation Project](.....)
+This is a classification problem where I have to predict whether a loan will be approved or not. Specifically, it is a binary classification problem where I have to predict either one of the two classes given i.e approved (Y) and not approved (N). 
 
 
 
@@ -23,10 +23,10 @@
 5. Machine Learning
 
 ## Preducting Loan Approval
-Machine Learning project to predict whether or not loan application will be approved or not. Three machine learing algorithms are available. code used in Python3
-   1. Logistic regression
-   2. Decision Tree
-   3. Random Forset 
+Machine Learning project to predict whether or not loan application will be approved or not. Three machine learing algorithms are available. code used in Python3. 
+   1. Logistic regression (0.832)
+   2. Decision Tree (0.76)
+   3. Random Forset (0.8)
 ## Data Sources
    ### https://www.kaggle.com/granjithkumar/loan-approval-data-set
 
