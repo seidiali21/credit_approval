@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Loan Prediction</title>
+    <style>
+
+        div.form {
+            display: block;
+            text-align: center;
+            }
+        form {
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: left;
+            }
+    </style>
+</head>
+<body>
+    <center>
+    <br><br><br>
+    <h3 style="background-color: whitesmoke; width:400px; padding: 20px 0px; 
+    border: 5px solid black; text-align:center; opacity:0.9">
+    <p style="color:black ; font-size:30px" >Loan Prediction</p>
+    <p style="font-size: 20px">Name: {{ Seidi.Name}}</p>
+    <p style="font-size: 20px">Credit_History: {{ Seidi.Credit_History}}</p>
+    <p style="font-size: 20px">Income: {{ Seidi.Income }}</p>
+    <p style="font-size: 20px">Loan_Amount: {{ Seidi.Loan_Amount}}</p>
+    <p style="font-size: 20px">{{ Seidi.Prediction}}</p></h3>
+    <a href="http://localhost:8891/notebooks/credit_approval.ipynb">
+        <button>Back to Homepage</button>
+    </a>
+    <div>
+        <img src="../Images/output.png" align="middle"/>
+        <img src="../Images/seidi2.png" align="middle"/>
+    </div>
+    </center>
+    
+</body>
+</html>
+
